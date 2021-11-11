@@ -1,4 +1,4 @@
-# Testing API posts
+# Testing API data
 
 It's a very simple website to testing a free fake API.
 
