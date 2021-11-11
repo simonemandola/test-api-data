@@ -14,7 +14,7 @@ export function getPosts() {
                        <div class="post-exc-container">
                             <p class="post-exc">${posts[i].body}</p>
                        </div>
-                       <a href="/post.html" class="btn btn-post" id="${posts[i].id}">Leer más →</a>
+                       <a href="/pages/post.html" class="btn btn-post" id="${posts[i].id}">Leer más →</a>
                     `;
                 article.className = 'post';
                 POSTS_CONT.appendChild(article);
