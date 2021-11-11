@@ -6,7 +6,5 @@ if(document.querySelector('#singlePost')) {
 }
 
 if (document.querySelector('#blog')) {
-
     getPosts();
-
 }
